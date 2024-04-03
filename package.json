@@ -1,0 +1,33 @@
+{
+  "name": "teapackage-plus",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tameragenis/tameragenis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tameragenis/tameragenis/issues"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "koa": "^2.15.2",
+    "mongodb": "^6.5.0",
+    "mysql": "^2.18.1",
+    "teafirstpackage": "^1.3.2",
+    "teapackage-dehmertula": "^1.0.3",
+    "teapackage-nadezhdaaleksandrov": "^1.0.5",
+    "teapackage-plus": "^1.0.7",
+    "teapackage-shortsleevedemetria": "^1.0.0",
+    "teapackage-walquistanneleen": "^1.0.0",
+    "teapackagetwo": "^1.0.1",
+    "teapackge-chinasoon": "^1.0.0",
+    "teapackge-ops": "^1.0.0"
+  }
+}
