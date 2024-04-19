@@ -1,33 +1,45 @@
 {
-  "name": "teapackage-plus",
-  "version": "1.0.9",
+  "name": "teapackage-tameragenis",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tameragenis/tameragenis.git"
-  },
-  "bugs": {
-    "url": "https://github.com/tameragenis/tameragenis/issues"
-  },
   "keywords": [],
   "author": "",
-  "license": "",
+  "license": "ISC",
   "dependencies": {
-    "koa": "^2.15.2",
-    "mongodb": "^6.5.0",
-    "mysql": "^2.18.1",
-    "teafirstpackage": "^1.3.2",
-    "teapackage-dehmertula": "^1.0.3",
-    "teapackage-nadezhdaaleksandrov": "^1.0.5",
-    "teapackage-plus": "^1.0.7",
-    "teapackage-shortsleevedemetria": "^1.0.0",
-    "teapackage-walquistanneleen": "^1.0.0",
-    "teapackagetwo": "^1.0.1",
-    "teapackge-chinasoon": "^1.0.0",
-    "teapackge-ops": "^1.0.0"
+    "koa": "^2.15.3",
+    "string-width-cjs": "^5.1.1",
+    "teapackage-abbasinisar831": "^1.0.1",
+    "teapackage-azzoparditohill203": "^1.0.1",
+    "teapackage-bartskilgo422": "^1.0.1",
+    "teapackage-bumpskeitha150": "^1.0.1",
+    "teapackage-carlavergara643": "^1.0.0",
+    "teapackage-dobintuenge844": "^1.0.1",
+    "teapackage-erbjamal370": "^1.0.1",
+    "teapackage-goldakmillion88": "^1.0.1",
+    "teapackage-griggersapadoca199": "^1.0.1",
+    "teapackage-groencronan589": "^1.0.1",
+    "teapackage-guempelspengler952": "^1.0.1",
+    "teapackage-haddixjayme250": "^1.0.1",
+    "teapackage-haefnersheskey658": "^1.0.1",
+    "teapackage-harmeyermaugeri703": "^1.0.1",
+    "teapackage-kanarisgrall225": "^1.0.1",
+    "teapackage-klarkohus135": "^1.0.1",
+    "teapackage-kroezelokke929": "^1.0.0",
+    "teapackage-larmonbutland40": "^1.0.1",
+    "teapackage-lemarmenette453": "^1.0.1",
+    "teapackage-lobachmcquaide422": "^1.0.1",
+    "teapackage-logronowierson941": "^1.0.1",
+    "teapackage-richardnegroj7": "^1.0.1",
+    "teapackage-riviraboiles308": "^1.0.1",
+    "teapackage-swaniganfretwell106": "^1.0.1",
+    "teapackage-tapiz": "^1.0.3",
+    "teapackage-thiagoverma1": "^1.0.1",
+    "teapackage-waldenbergdeidre590": "^1.0.1",
+    "teapackage-yumasbionda605": "^1.0.1",
+    "teapackage-zlatenwanda12": "^1.0.1"
   }
 }
